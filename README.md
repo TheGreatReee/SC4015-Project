@@ -1,5 +1,5 @@
 # SC4015 Cyber Physical Security Project - Correlation Power Analysis
-This repository is submitted as part of the NTU CCDS course, SC4015 CPS module. This was a group project done by Chee Yong, Don, and Wei Yang.
+This repository is submitted as part of the NTU CCDS course, SC4015 CPS module. This was a group project done by Chee Yong, @TheGreatReee, and Wei Yang.
 
 ## Project Description
 Given a set of power traces (waveform.csv), implement Correlation Power Analysis (CPA) to extract the key. 
