@@ -10,4 +10,5 @@ Given a set of power traces (waveform.csv), implement Correlation Power Analysis
 - CPA_Project_First_byte_extraction.ipynb - A cut down version of CPA_Project_key_extraction.ipynb, extracting only the first byte of the key
 
 ## Running the Notebook
-No special instructions are needed. Select run all and wait for the program to finish runnning
+- CPA_Project_key_extraction.ipynb: No special instructions are needed. Select run all and wait for the program to finish runnning
+- CPA_Project_First_byte_extraction.ipynb: This file works on a truncated version of waveform.csv. To run this, remove the bottom 10 rows of waveform.csv
