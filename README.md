@@ -7,7 +7,7 @@ Given a set of power traces (waveform.csv), implement Correlation Power Analysis
 ## Contents
 - CPA_Project_key_extraction.ipynb - Python Script for processing the power traces and running the Correlation Power Analysis attack. Extracts the full 16 byte key. 
 - waveform.csv - A set of 110 power traces
-- CPA_Projecto.ipynb - A cut down version of CPA_Project_key_extraction.ipynb, extracting only the first byte of the key
+- CPA_Project_First_byte_extraction.ipynb - A cut down version of CPA_Project_key_extraction.ipynb, extracting only the first byte of the key
 
 ## Running the Notebook
 No special instructions are needed. Select run all and wait for the program to finish runnning
